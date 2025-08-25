@@ -1,0 +1,13 @@
+name = "Longer Following Time"
+filename = "longer_following_time-merged-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5718bca80e89ba87160643b5a75cc85ffed62777"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5940375
+project-id = 1148090

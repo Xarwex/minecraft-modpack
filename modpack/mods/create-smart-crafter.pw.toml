@@ -1,0 +1,13 @@
+name = "Create: Smart Crafter"
+filename = "smartcrafter-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc40f6e02b58e7346ef269f238eca41b99703b92"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6334931
+project-id = 1105414
