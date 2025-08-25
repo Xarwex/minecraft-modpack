@@ -3207,7 +3207,7 @@ metafile = true
 
 [[files]]
 file = "mods/scorched-guns.pw.toml"
-hash = "ca8d27ef699ec4e8b5543669a6f6a1ee2e08430308b1b59820ed31ad9f54d22b"
+hash = "d5b04c935288242e6c0fa0a2097abe2dafd39e78faaca7f8d0a4a88634396aad"
 metafile = true
 
 [[files]]
