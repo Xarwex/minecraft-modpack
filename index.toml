@@ -3002,7 +3002,7 @@ metafile = true
 
 [[files]]
 file = "mods/monolib.pw.toml"
-hash = "5fc48d3615a88faca6041e584dc417368e61d6d398ff9fde737d56a6a06f2d37"
+hash = "83cc8abe9d01cda5046a97e2bc2854041a1e6be037b4fa2fe1f8ce4eea54bb87"
 metafile = true
 
 [[files]]
@@ -3448,6 +3448,11 @@ metafile = true
 [[files]]
 file = "mods/trimseffects.pw.toml"
 hash = "02af76d048be63b26a6dd1385e91bdf2b11b68bb38905a417e5ddfa599de348c"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
 metafile = true
 
 [[files]]
